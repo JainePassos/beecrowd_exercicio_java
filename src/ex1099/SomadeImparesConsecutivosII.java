@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class SomadeImparesConsecutivosII {
     public static void main(String[] args) {
             Scanner sc = new Scanner(System.in);
+
             int N = sc.nextInt();
             int X = 0;
             int Y = 0;
